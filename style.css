@@ -1,9 +1,10 @@
 body {
-    background: #CCCCCC
+    background: color(srgb red green blue) (0, 21%, 27%, 0.664)
 }
 
 p {
     text-align: center;
+    color:fuchsia
 }
 
 em strong {
